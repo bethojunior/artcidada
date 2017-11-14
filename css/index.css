@@ -1,0 +1,242 @@
+
+ /* Largura da barra de rolagem */
+::-webkit-scrollbar {
+    width: 10px;
+    display: none; 
+
+}
+
+/* Fundo da barra de rolagem */
+::-webkit-scrollbar-track-piece {
+    background-color: #05395b;
+    border-left: 1px solid #CCC;
+}
+
+/* Cor do indicador de rolagem */
+::-webkit-scrollbar-thumb:vertical,
+::-webkit-scrollbar-thumb:horizontal {
+    background-color: #3490cc;
+}
+
+/* Cor do indicador de rolagem - ao passar o mouse */
+::-webkit-scrollbar-thumb:vertical:hover,
+::-webkit-scrollbar-thumb:horizontal:hover {
+    background-color: #717171;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/************* NAV ***************/
+.liPainel {
+    color: cadetblue;    
+}
+
+.menuMobile {
+    display: none;
+}
+
+.navHeader {
+    background-color: #f3ca31;
+    position: fixed;
+    z-index: 100;
+}
+.liFirstChild {
+    margin-right: 2%;
+}
+/****************** LOGIN *************/
+.submitLogin{
+    margin-left: 35%;
+}
+.divSenha {
+    display: none;
+}
+
+/********************** CARDS ***********/
+.logoHeader {
+    z-index: -1;
+    width: 100%;
+    margin-left: 10%;
+}
+
+.cardsHeader {
+    margin-top: 5%!important;
+    /* background-image: url(../imagens/logo.png); */
+    background-image: url(../imagens/logoOpaca.png);
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.tituloCard {
+    font-family: "Source Sans Pro";
+}
+.textoCard {
+    font-family: "Montserrat";
+}
+
+.imgCard {
+    /*width: 20%!important;*/
+}
+
+/********************* BODY **************************/
+.divBody {
+    /*background-color: #2196f3;*/
+    border: solid thin ;
+    border-radius: 10px;
+}
+
+.divBody1 {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.divSpan {
+    margin-top: 1%;    
+}
+
+.spanBody {
+    font-family: "Roboto";
+}
+
+iframe{
+    margin-top: 5%;
+    width: 100%!important;
+}
+
+/***************** CAROUUSEL ******************/
+
+ .divCarousel {
+    margin: 0!;
+    padding-top: 0!;
+ }
+
+ .imagemCarousel {
+    width: 40%!important;
+    padding-bottom: 40%!important;
+    
+ }
+/************** GALERIA FOTOS ***************/
+
+/*  .divGaleria{
+     background-image: url(../imagens/logoOpaca.png);
+     background-attachment: fixed;
+     background-position: center;
+ } */
+
+.galeria {
+    margin: 1%;
+}
+
+.tituloDivFotos{
+    color: #f3ca31;
+    font-family: "Raleway";
+    text-align: center;
+}
+
+.imgGaleria {
+    transition: all 1s;
+    width: 100%;
+}
+
+.imgGaleria:hover {
+    transform: scale(1.2);
+    transition: all 1s;
+}
+
+/************** FOOTER ***********/
+
+.footer{
+    background: #207e89;
+    padding-top: 2%;
+    margin: 0;
+}
+
+.spanFooter{
+    color: white;
+    font-size: 20pt;
+    font-family: "Raleway";
+}
+
+.iconSocial{
+    margin-left: 3%;
+    text-align: center;
+}
+.iconFace{
+    margin-left: 3%;
+    text-align: center;
+}
+.iconInsta{
+    margin-left: 3%;
+    text-align: center;
+}
+
+textarea {
+    resize: none;
+    width: 100%;
+    height: 100px;
+}
+
+.endFooter {
+    background-color: #252439;
+}
+
+.mapa {
+    width: 440px;
+    height: 318px;
+}
+
+@media only screen and (max-width: 600px){
+        
+    .menuWeb {
+        display: none;
+    }
+        
+    .menuMobile {
+        display: block;
+        background-color: #f3ca31;
+    }
+        
+    .nomeMenuMobile{
+        font-family: "Montserrat";
+        font-size: 20pt;
+        text-align: center;
+        margin-left: 3%;
+    }
+    .tituloCard {
+        font-family: "Source Sans Pro";
+        font-size: 10pt;
+    }
+    
+    .textoCard {
+        font-family: "Montserrat";
+        font-size: 15pt;
+    }
+    
+    .spanBody {
+        font-family: "Montserrat";
+        font-size: 15pt;
+    }
+
+    /***********GALERIA FOTOS ************/
+    .galeria {
+        margin: 0;
+    }
+
+    /********* FOOTER *******/
+    .mapa {
+        width: 380px; 
+        height: 318px;
+    }
+    
+    .iconFace{
+        margin-left: 35%;
+    }
+    .iconInsta{
+        margin-left: 35%;
+    }
+    .iconSocial {
+        margin-left: 35%;
+    }
+}
