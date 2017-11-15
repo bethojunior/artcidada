@@ -107,10 +107,10 @@ iframe{
 
 /***************** CAROUUSEL ******************/
 
- .divCarousel {
-    margin: 0!;
-    padding-top: 0!;
- }
+.divCarousel {
+    margin: 0;
+    padding-top: 0;
+}
 
  .imagemCarousel {
     width: 40%!important;
@@ -166,20 +166,7 @@ iframe{
     padding: 10px;
     border: 0.5px solid gray;
 }
-.iconFace{
-    margin-left: 15%;
-    text-align: center;
-    width : 35%;
-    padding: 10px;
-    border: 0.5px solid gray;
-}
-.iconInsta{
-    margin-left: 15%;
-    text-align: center;
-    width : 35%;
-    padding: 10px;
-    border: 2px solid gray;
-}
+
 
 textarea {
     resize: none;
@@ -235,7 +222,10 @@ textarea {
         margin: 0;
         padding: 0;
     }
-    
+    .divCarousel {
+        margin: 0;
+        padding: 0;
+    }    
     .imagemCarousel {
         width: 80%!important;
     }
@@ -243,29 +233,33 @@ textarea {
     .galeria {
         margin: 0;
     }
+    .hiddenMobile {
+        display: none;
+    }
 
     /********* FOOTER *******/
     .mapa {
-        width: 380px; 
-        height: 318px;
+        /* width: 380px; 
+        height: 318px; */
+        width: 100%;
+        height: 20%;
+        margin-bottom: 3%;
+        padding: auto;
+        text-align: center;
     }
-
-    .iconFace{
+    
+    .divIcon {
         display: inline-block;
-        width : 40%;
-        padding: 10px;
-        border: 0.5px solid gray;
+        margin: 0;
+        padding: 0;
     }
-    .iconInsta{
-        display: inline-block;
-        width : 40%;
-        padding: 10px;
-        border: 0.5px solid gray;
-    }
+ 
     .iconSocial {
         display: inline-block;
-        width : 40%;
+        width : 100%;
         padding: 10px;
         border: 0.5px solid gray;
+        text-align: center;
+        margin: auto;
     }
 }

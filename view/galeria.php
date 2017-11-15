@@ -3,7 +3,7 @@
         <h1>Galeria de fotos</h1>
     </span>
 
-    <div class="row col l12">
+    <div class="row col l12 hiddenMobile">
 
         <?php
             require "php/mvc/service/conexao.php";

@@ -1,5 +1,5 @@
-<div class="row">
-<div class=" id="quemSomos">
+<div class="row col s12">
+<div class=" " id="quemSomos">
     <?php
         require "php/mvc/service/conexao.php";
         $busca = mysqli_query($conexao , "SELECT * FROM carousel order by id desc limit 3");
