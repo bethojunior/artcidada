@@ -3,6 +3,11 @@ function modalDeleteCard(id){
     $('#modalDeleteCard').modal('open');
 }
 
+/////DELETAR SLIDE
+function modalDeleteSlide(id){
+    $('#modalDeleteSlide').modal('open');
+}
+
 ////////////// LIBERAR  AO ENVIAR ARQUIVOS
 function Success() {
     setTimeout("window.location='../../adm.php'",1000);

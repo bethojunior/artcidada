@@ -9,7 +9,7 @@
     while ($imagem = mysqli_fetch_array($busca)) {
         ?>
 
-        <div class="col l3 s12 ">
+        <div class="col l3 s4 ">
             <div class="card <?php echo $i; ?>" onClick="modal2(id)" id='<?php echo json_encode($imagem);?>'  >
                 <div class="card-image">
 

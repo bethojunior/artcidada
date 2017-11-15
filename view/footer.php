@@ -1,13 +1,23 @@
 <div class="row col l12 footer" id="footer">
-    <div class="col l2">
+<!--     <div class="col l2">
         <span class="spanFooter">Redes sociais</span>
         <br><br>
-        <span class="icons">
-            <a href="https://www.facebook.com/artcidadacariri/"  target="_blank"><img class="iconFace" src="imagens/face.png" width="30%;"></a><br><br>
-            <img class="iconInsta" src="imagens/insta.png" width="30%"><br><br>
-            <img class="iconSocial" src="imagens/tel.png" width="35%">
-        </span>
-    </div>
+        <ul class="ulIcons">
+            <li class="liIcons">
+                <a href="https://www.facebook.com/artcidadacariri/"  target="_blank"><img class="iconFace" src="imagens/face.png" ></a>
+            </li>
+            <li class="liIcons">
+                <img class="iconInsta" src="imagens/insta.png">
+            </li>
+            <li class="liIcons">
+                <img class="iconSocial" src="imagens/tel.png" >
+            </li>
+            
+        </ul>
+    </div> -->
+    <?php 
+        include("icons.php");
+    ?>
     <div class="col l6">
         <span class="spanFooter">Entre em contato: </span>
         <form method="POST" action="php/mail.php">

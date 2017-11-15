@@ -5667,7 +5667,8 @@ button.btn-floating {
 }
 
 .modal .modal-content {
-  padding: 24px;
+  padding: 2px;
+
 }
 
 .modal .modal-close {

@@ -4,7 +4,7 @@
         <ul class="tabs">
             <li class="tab col s2"><a class="active option" href="#test0">Pagina inicial</a></li>
             <li class="tab col s2"><a class="option" href="#test1">Galeria de fotos</a></li>
-            <li class="tab col s2"><a href="#test2" class="option" >Imagens Slide</a></li>
+            <li class="tab col s2"><a href="#test2" class="option" >Imagens Slide / Video</a></li>
             <li class="tab col s2"><a href="#test3" class="option" >Cards</a></li>
             <li class="tab col s4"><a href="../../index.php" class="option" >Sair</a></li>
         </ul>

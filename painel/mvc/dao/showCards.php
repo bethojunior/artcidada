@@ -19,11 +19,11 @@
             echo "</td>";
 
             echo "<td>";
-                echo "<i onClick='alterarCards(id)' id='".$result['id']."' class='material-icons'>mode_edit</i>";
+                echo "<i onClick='alterarCards(id)' id='".$result['id']."' class='material-icons '>mode_edit</i>";
             echo "</td>";
 
             echo "<td>";
-                echo "<i onClick='modalDeleteCard(id)' id='".$result['id']."'  class='material-icons'>clear</i>";
+                echo "<i onClick='modalDeleteCard(id)' id='".$result['id']."'  class='material-icons '>clear</i>";
             echo "</td>";
 
         echo "</tr>";

@@ -1,17 +1,17 @@
 <!-- MODAL 2 -->
 <div id="modal2" class="modal">
+    
+    <a href="#!" class="modal-action modal-close btn-flat right">Fechar</a>
     <div class="modal-content">
         <h3 id="tituloModal"></h3><hr>
-        <div class="row">
-            <div class="col l6">
+        <div class="">
+            <div class="col l6 s12 divModal">
                 <img id="imagemModal">
             </div>
-            <div class="col l4">
+            <div class="col l4 s12">
                 <h5 id="textoModal"></h5>
             </div>
         </div>
     </div>
-    <div class="modal-footer">
-        <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Fechar</a>
-    </div>
+
 </div>

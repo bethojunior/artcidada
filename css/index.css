@@ -160,16 +160,25 @@ iframe{
 }
 
 .iconSocial{
-    margin-left: 3%;
+    margin-left: 15%;
     text-align: center;
+    width : 35%;
+    padding: 10px;
+    border: 0.5px solid gray;
 }
 .iconFace{
-    margin-left: 3%;
+    margin-left: 15%;
     text-align: center;
+    width : 35%;
+    padding: 10px;
+    border: 0.5px solid gray;
 }
 .iconInsta{
-    margin-left: 3%;
+    margin-left: 15%;
     text-align: center;
+    width : 35%;
+    padding: 10px;
+    border: 2px solid gray;
 }
 
 textarea {
@@ -188,6 +197,7 @@ textarea {
 }
 
 @media only screen and (max-width: 600px){
+    
         
     .menuWeb {
         display: none;
@@ -218,7 +228,17 @@ textarea {
         font-family: "Montserrat";
         font-size: 15pt;
     }
-
+    
+    .divModal{
+        width: 80%;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .imagemCarousel {
+        width: 80%!important;
+    }
     /***********GALERIA FOTOS ************/
     .galeria {
         margin: 0;
@@ -229,14 +249,23 @@ textarea {
         width: 380px; 
         height: 318px;
     }
-    
+
     .iconFace{
-        margin-left: 35%;
+        display: inline-block;
+        width : 40%;
+        padding: 10px;
+        border: 0.5px solid gray;
     }
     .iconInsta{
-        margin-left: 35%;
+        display: inline-block;
+        width : 40%;
+        padding: 10px;
+        border: 0.5px solid gray;
     }
     .iconSocial {
-        margin-left: 35%;
+        display: inline-block;
+        width : 40%;
+        padding: 10px;
+        border: 0.5px solid gray;
     }
 }

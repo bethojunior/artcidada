@@ -4,7 +4,7 @@
     include "mvc/service/receberDadosCards.php";
 ?>
 <div class="row">
-    <table class="col l12 striped highlight responsive-table" border="1">
+    <table class="col l12 s12 striped highlight " border="1">
 
         <thead>
             <tr>

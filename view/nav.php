@@ -60,7 +60,7 @@
 <div id="modal1" class="modal">
     <div class="modal-content">
         <form class="container" method="POST" action="painel/mvc/controller/users.php" >
-            <input placeholder="Login" id="login" name="login" required>
+            <input placeholder="Login" id="login" name="login" required autofocus>
             <div class="" id="divSenha">
                 <input type="password" id="senha" name="senha" placeholder="Senha" required>
                 <a onmousedown="mostrarSenha()" onmouseup="ocultarSenha()">Mostrar senha</a>
