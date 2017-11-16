@@ -12,7 +12,7 @@
             echo "</td>";
 
             echo "<td>";
-                echo "<img src='../uploadCarousel/medium/".$result['imagem']."'>";
+                echo "<img src='../uploadCarousel/small/".$result['imagem']."'>";
             echo "</td>";
 
             echo "<td>";

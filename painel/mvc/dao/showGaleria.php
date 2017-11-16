@@ -12,7 +12,7 @@ while($result = mysqli_fetch_array($dados)) {
         echo "</td>";
 
         echo "<td>";
-            echo "<img src='../uploadsGaleriaFotos/medium/" . $result['imagem'] . "'>";
+            echo "<img src='../uploadsGaleriaFotos/small/" . $result['imagem'] . "'>";
         echo "</td>";
 
         echo "<td>";
