@@ -7,7 +7,7 @@
         echo "<tr>";
 
             echo "<td>";
-                echo "<img src='../uploadCards/small/".$result['imagem']."'>";
+                echo "<img src='../uploadCards/medium/".$result['imagem']."'>";
             echo "</td>";
 
             echo "<td>";

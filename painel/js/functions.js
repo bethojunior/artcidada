@@ -7,6 +7,10 @@ function modalDeleteCard(id){
 function modalDeleteSlide(id){
     $('#modalDeleteSlide').modal('open');
 }
+/////MODAL DELETAR GALERIA
+function modalDeleteGaleria(id){
+    $('#modalDeleteGaleria').modal('open');
+}
 
 ////////////// LIBERAR  AO ENVIAR ARQUIVOS
 function Success() {

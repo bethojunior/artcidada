@@ -1,6 +1,8 @@
 <?php
     include("mvc/service/receberDadosSlide.php");
+
     while($result = mysqli_fetch_array($dados)){
+
         echo "<input type='hidden' id='idSlide' name='idSlide' value='".$result['id']."'>";
 
         echo "<tr>";
@@ -10,7 +12,7 @@
             echo "</td>";
 
             echo "<td>";
-                echo "<img src='../uploadCarousel/small/".$result['imagem']."'>";
+                echo "<img src='../uploadCarousel/medium/".$result['imagem']."'>";
             echo "</td>";
 
             echo "<td>";

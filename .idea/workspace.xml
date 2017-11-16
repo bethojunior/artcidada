@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8d2f1e-d094-4687-9afd-ea36ce619d99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painel/mvc/dao/apagarSlide.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painel/mvc/dao/showSlides.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painel/mvc/service/receberDadosSlide.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/painel/view/optionSlide.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Materialize/css/materialize.css" afterPath="$PROJECT_DIR$/Materialize/css/materialize.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/css/index.css" afterPath="$PROJECT_DIR$/painel/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/js/functions.js" afterPath="$PROJECT_DIR$/painel/js/functions.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/mvc/dao/showCards.php" afterPath="$PROJECT_DIR$/painel/mvc/dao/showCards.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/view/nav.php" afterPath="$PROJECT_DIR$/painel/view/nav.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/view/optionCards.php" afterPath="$PROJECT_DIR$/painel/view/optionCards.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/view/slide.php" afterPath="$PROJECT_DIR$/painel/view/slide.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/mvc/dao/showSlides.php" afterPath="$PROJECT_DIR$/painel/mvc/dao/showSlides.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/view/galeriaFotos.php" afterPath="$PROJECT_DIR$/painel/view/galeriaFotos.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/cards.php" afterPath="$PROJECT_DIR$/view/cards.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/modal.php" afterPath="$PROJECT_DIR$/view/modal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/carousel.php" afterPath="$PROJECT_DIR$/view/carousel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/nav.php" afterPath="$PROJECT_DIR$/view/nav.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/video.php" afterPath="$PROJECT_DIR$/view/video.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,18 +35,28 @@
       <file leaf-file-name="showSlides.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/painel/mvc/dao/showSlides.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="196">
+              <caret line="14" column="82" lean-forward="true" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slide.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/painel/view/slide.php">
+      <file leaf-file-name="optionGaleria.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/painel/view/optionGaleria.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+            <state relative-caret-position="448">
+              <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="showGaleria.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/painel/mvc/dao/showGaleria.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -64,29 +65,21 @@
       <file leaf-file-name="showCards.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/painel/mvc/dao/showCards.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="25" column="114" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="114" />
+            <state relative-caret-position="126">
+              <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="optionSlide.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/painel/view/optionSlide.php">
+      <file leaf-file-name="receberDadosGaleria.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/painel/mvc/service/receberDadosGaleria.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="optionCards.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/painel/view/optionCards.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="49" column="52" lean-forward="true" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
-              <folding />
+            <state relative-caret-position="98">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+              <folding>
+                <marker date="1510851121955" expanded="true" signature="74:95" ph="SELECT * FRO... galeria" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,10 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/php/mail.php" />
-        <option value="$PROJECT_DIR$/admin/index.php" />
-        <option value="$PROJECT_DIR$/admin/webServices/login.php" />
-        <option value="$PROJECT_DIR$/Materialize/css/materialize.css" />
         <option value="$PROJECT_DIR$/view/bodyVideo.php" />
         <option value="$PROJECT_DIR$/painel/conexao.php" />
         <option value="$PROJECT_DIR$/painel/php/conexao.php" />
@@ -150,7 +139,6 @@
         <option value="$PROJECT_DIR$/painel/mvc/controller/optionCards.php" />
         <option value="$PROJECT_DIR$/painel/view/cards.php" />
         <option value="$PROJECT_DIR$/painel/mvc/controller/receberDadosCard.php" />
-        <option value="$PROJECT_DIR$/painel/view/galeriaFotos.php" />
         <option value="$PROJECT_DIR$/painel/mvc/service/updateCards.php" />
         <option value="$PROJECT_DIR$/painel/adm.php" />
         <option value="$PROJECT_DIR$/painel/js/ajax.js" />
@@ -163,16 +151,21 @@
         <option value="$PROJECT_DIR$/view/nav.php" />
         <option value="$PROJECT_DIR$/painel/mvc/service/receberDadosSlide.php" />
         <option value="$PROJECT_DIR$/painel/view/nav.php" />
-        <option value="$PROJECT_DIR$/painel/mvc/dao/showCards.php" />
         <option value="$PROJECT_DIR$/painel/css/index.css" />
         <option value="$PROJECT_DIR$/painel/view/optionCards.php" />
         <option value="$PROJECT_DIR$/view/video.php" />
-        <option value="$PROJECT_DIR$/painel/js/functions.js" />
         <option value="$PROJECT_DIR$/painel/mvc/dao/apagarSlide.php" />
         <option value="$PROJECT_DIR$/painel/view/optionSlide.php" />
-        <option value="$PROJECT_DIR$/painel/mvc/dao/showSlides.php" />
         <option value="$PROJECT_DIR$/painel/view/slide.php" />
         <option value="$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php" />
+        <option value="$PROJECT_DIR$/painel/view/galeriaFotos.php" />
+        <option value="$PROJECT_DIR$/painel/mvc/service/receberDadosGaleria.php" />
+        <option value="$PROJECT_DIR$/painel/js/functions.js" />
+        <option value="$PROJECT_DIR$/painel/mvc/dao/apagarGaleria.php" />
+        <option value="$PROJECT_DIR$/painel/view/optionGaleria.php" />
+        <option value="$PROJECT_DIR$/painel/mvc/dao/showGaleria.php" />
+        <option value="$PROJECT_DIR$/painel/mvc/dao/showCards.php" />
+        <option value="$PROJECT_DIR$/painel/mvc/dao/showSlides.php" />
       </list>
     </option>
   </component>
@@ -242,11 +235,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\art\admin\mvc\dao" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\art\admin\service" />
+      <recent name="C:\xampp\htdocs\art\admin\mvc\dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\art\admin\mvc\dao" />
     </key>
   </component>
@@ -291,16 +284,17 @@
       <workItem from="1510699697077" duration="186000" />
       <workItem from="1510751943453" duration="8285000" />
       <workItem from="1510764824593" duration="2574000" />
+      <workItem from="1510850877846" duration="2312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117239000" />
+    <option name="totallyTimeSpent" value="119551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20121029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.204236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -328,7 +322,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20121029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.204236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -349,22 +343,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/painel/php/conexao.php" />
-    <entry file="file://$PROJECT_DIR$/painel/php/users.php" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="66" column="18" lean-forward="false" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/mvc/service/conexao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/cardsTest.php" />
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/updateSlides.php" />
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/updateCards.php" />
@@ -381,7 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="72" lean-forward="false" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -396,9 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
-          <folding>
-            <marker date="1510766902370" expanded="true" signature="88:132" ph="SELECT * FRO... cards" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -407,9 +381,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <marker date="1510596296346" expanded="true" signature="274:320" ph="SELECT * FRO... galeria" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -441,7 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -452,13 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/view/galeriaFotos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -487,15 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
           <caret line="69" column="15" lean-forward="true" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/view/cards.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -506,22 +460,6 @@
           <folding>
             <marker date="1510698661052" expanded="true" signature="748:833" ph="INSERT INTO cards... " />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/view/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="6" column="89" lean-forward="false" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/adm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,9 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding>
-            <marker date="1510596561293" expanded="true" signature="146:193" ph="SELECT * FRO... carousel" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,10 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="3" column="62" lean-forward="false" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
-          <folding>
-            <marker date="1510765977581" expanded="true" signature="100:114" ph="SELECT * FRO... carousel" />
-            <marker date="1510765977581" expanded="true" signature="100:164" ph="SELECT * FRO... carousel" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -569,40 +500,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/painel/js/functions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadGaleria.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="51" />
           <folding>
             <marker date="1510698492853" expanded="true" signature="675:743" ph="INSERT INTO galeria... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/apagarCard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <marker date="1510698261928" expanded="true" signature="201:235" ph="DELETE FROM " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/mvc/service/receberDadosCards.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding>
-            <marker date="1510697877861" expanded="true" signature="74:93" ph="SELECT * FRO... cards" />
           </folding>
         </state>
       </provider>
@@ -627,38 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/painel/view/optionSlide.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="20" column="38" lean-forward="false" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/view/optionCards.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="49" column="52" lean-forward="true" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/showCards.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="25" column="114" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="114" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/view/slide.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="27" column="49" lean-forward="true" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -669,10 +540,138 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/painel/view/slide.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/adm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/view/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="89" lean-forward="false" selection-start-line="6" selection-start-column="89" selection-end-line="6" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/view/cards.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="true" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/view/optionSlide.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/service/receberDadosCards.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <marker date="1510697877861" expanded="true" signature="74:93" ph="SELECT * FRO... cards" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/view/galeriaFotos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="30" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/view/optionCards.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="53" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/apagarCard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1510698261928" expanded="true" signature="201:235" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/apagarGaleria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1510851554070" expanded="true" signature="189:225" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/view/optionGaleria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/service/receberDadosGaleria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <marker date="1510851121955" expanded="true" signature="74:95" ph="SELECT * FRO... galeria" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/showGaleria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/showCards.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/showSlides.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="196">
+          <caret line="14" column="82" lean-forward="true" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
           <folding />
         </state>
       </provider>

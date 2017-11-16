@@ -18,7 +18,8 @@
                         echo "<span class='card-title tituloCard'>".$imagem['titulo']."</span>";
                     ?>
                 </div>
-                <div class="card-content">
+                
+                <div class = "hiddenModal card-content">
                     <?php
                         //echo "<p class='textoCard'>".$imagem['texto']."</p>";
                         echo "<a href='#'>Click here ...</a><i class='material-icons right'>bookmark_border</i>";

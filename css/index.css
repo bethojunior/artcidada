@@ -17,7 +17,7 @@
 ::-webkit-scrollbar-thumb:horizontal {
     background-color: #3490cc;
 }
-
+ 
 /* Cor do indicador de rolagem - ao passar o mouse */
 ::-webkit-scrollbar-thumb:vertical:hover,
 ::-webkit-scrollbar-thumb:horizontal:hover {
@@ -30,6 +30,7 @@ body {
 }
 
 /************* NAV ***************/
+
 .liPainel {
     color: cadetblue;    
 }
@@ -46,6 +47,7 @@ body {
 .liFirstChild {
     margin-right: 2%;
 }
+
 /****************** LOGIN *************/
 .submitLogin{
     margin-left: 35%;
@@ -72,6 +74,7 @@ body {
 .tituloCard {
     font-family: "Source Sans Pro";
 }
+
 .textoCard {
     font-family: "Montserrat";
 }
@@ -81,6 +84,7 @@ body {
 }
 
 /********************* BODY **************************/
+
 .divBody {
     /*background-color: #2196f3;*/
     border: solid thin ;
@@ -115,7 +119,6 @@ iframe{
  .imagemCarousel {
     width: 40%!important;
     padding-bottom: 40%!important;
-    
  }
 /************** GALERIA FOTOS ***************/
 
@@ -185,7 +188,6 @@ textarea {
 
 @media only screen and (max-width: 600px){
     
-        
     .menuWeb {
         display: none;
     }
@@ -199,8 +201,13 @@ textarea {
         font-family: "Montserrat";
         font-size: 20pt;
         text-align: center;
-        margin-left: 3%;
+        margin-bottom: 10%!important;
     }
+    
+    .logoMobile{
+        width: 15%;
+    }
+    
     .tituloCard {
         font-family: "Source Sans Pro";
         font-size: 10pt;
@@ -222,14 +229,29 @@ textarea {
         margin: 0;
         padding: 0;
     }
+    
+    /********* CARROUSEL AND VIDEO ***********/
+    .hiddenModal {
+        display: none;
+    }
+    
     .divCarousel {
         margin: 0;
-        padding: 0;
     }    
+    
     .imagemCarousel {
         width: 80%!important;
+        padding-bottom: 0;
     }
+    
+    .iframe{
+        margin: 0;
+        padding: 0;
+        width: 100%!important;
+    }
+    
     /***********GALERIA FOTOS ************/
+    
     .galeria {
         margin: 0;
     }

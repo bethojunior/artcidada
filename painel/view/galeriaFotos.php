@@ -25,7 +25,7 @@
 
 <div id="test5" class="col s12 l12">
     <?php 
-        //include("mvc/controller/optionGaleria.php");
+        include("optionGaleria.php");
     ?>
 </div>
 
