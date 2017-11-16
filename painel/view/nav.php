@@ -1,6 +1,6 @@
 
-<div class="divHeader l12">
-    <div class="col l12 row">
+<div class="divHeader l12 s12">
+    <div class="col l12 s12 row">
         <ul class="tabs">
             <li class="tab col s2"><a class="active option" href="#test0">Pagina inicial</a></li>
             <li class="tab col s2"><a class="option" href="#test1">Galeria de fotos</a></li>
