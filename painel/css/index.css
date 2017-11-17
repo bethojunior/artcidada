@@ -9,8 +9,9 @@
     height: 280px;
 }
 .logo {
-    width: 100%;
-    margin: auto;
+    width: 90%;
+    height: 87%;
+    margin-left: 4%;
 }
 
 .tituloLocal {

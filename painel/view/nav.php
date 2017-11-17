@@ -11,7 +11,7 @@
         </div>
     </div>
 
-    <div id="test0" class="col s12 l12">
+    <div id="test0" class="col s12 l12 m12">
         <img src="../imagens/logoExt.png" class="logo">
     </div>
 
