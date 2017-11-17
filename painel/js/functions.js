@@ -1,6 +1,6 @@
 ///SAIR
-function sairPainel(){
-    $('#modalsairPainel').modal('open');
+function sairAdm(){
+    setTimeout("window.location='../index.php'" , 100);
 }
 
 ///////////////MODAL

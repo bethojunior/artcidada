@@ -6,7 +6,7 @@
                 <li class="tab col l2 s2"><a class="option" href="#test1">Galeria</a></li>
                 <li class="tab col l2 s2"><a href="#test2" class="option" >Slide/Video</a></li>
                 <li class="tab col l2 s2"><a href="#test3" class="option" >Cards</a></li>
-                <li class="tab col l4 s1"><a onClick="sairPainel()" >Sair</a></li>
+                <li class="tab col l4 s1"><a href="#sair" onClick="sairAdm()" >Sair</a></li>
             </ul>
         </div>
     </div>
@@ -31,6 +31,10 @@
         <?php
             include("cards.php");
         ?>
+    </div>    
+    
+    <div id="sair" class="col s12 l12">
+        
     </div>
 </div>
 <div id="sairPainel" class="modal">

@@ -188,6 +188,10 @@ textarea {
 
 @media only screen and (max-width: 600px){
     
+    .row {
+        margin-bottom: 0!important;
+    }
+    
     .menuWeb {
         display: none;
     }
@@ -236,12 +240,14 @@ textarea {
     }
     
     .divCarousel {
-        margin: 0;
+        margin-top: -22%!important;
+        padding-top: 0;
+        top: -100!important;
     }    
     
     .imagemCarousel {
         width: 80%!important;
-        padding-bottom: 0;
+        padding-top: 0;
     }
     
     .iframe{
