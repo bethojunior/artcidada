@@ -1,3 +1,8 @@
+///SAIR
+function sairPainel(){
+    $('#modalsairPainel').modal('open');
+}
+
 ///////////////MODAL
 function modalDeleteCard(id){
     $('#modalDeleteCard').modal('open');

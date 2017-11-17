@@ -17,7 +17,7 @@
     <span id="numbTituloGaleria">20</span><span>/20</span>
     <input id="tituloGaleria" required type="text" name="titulo" placeholder="Insira o titulo"><br>
     <div>
-        <input type="submit" class="btn" value="Enviar">
+        <input type="submit" class="btn right" value="Enviar">
     </div>
 </form>
 </div>

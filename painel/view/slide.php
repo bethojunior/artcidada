@@ -18,7 +18,7 @@
         <span id="numbSlide">20</span><span>/20</span>
         <input id="titleSlide"  type="text" name="titulo" placeholder="Insira o titulo" required><br><br>
         <div>
-            <input type="submit" class="btn" value="Enviar">
+            <input type="submit" class="btn right" value="Enviar">
         </div>
     </form>
 
@@ -27,7 +27,7 @@
 <div class="row" id="video">
     <form method="POST" action="mvc/dao/uploadVideo.php" class="col l12 s12">
         <input autofocus required name="video" placeholder="Insira o IFRAME do seu video"><br>
-        <input class="btn " type="submit" value="Enviar">
+        <input class="btn right" type="submit" value="Enviar">
     </form>
 </div>
 

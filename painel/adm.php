@@ -23,8 +23,6 @@
             $(document).ready(function(){
             $('ul.tabs').tabs();
             });
-
-
-        </script>        
+        </script>    
     </body>
 </html>
