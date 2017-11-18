@@ -8,6 +8,6 @@
     $result = mysqli_fetch_array($dados);
 
     echo json_encode($result);
-?>
+
 
 

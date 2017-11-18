@@ -32,7 +32,7 @@
         <textarea class="textareaAll" type="text" id="modalTextCard" name="modalTextCard" placeholder="Digite aqui o texto"></textarea><br><br>
         <input  type="submit" class="btn right" value="Enviar">
     </form>
-    </div>
+</div>
 
     <div class="modal-footer">
         <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Fechar</a>

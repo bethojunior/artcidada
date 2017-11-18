@@ -1,0 +1,3 @@
+banco 704art.mysql.uhserver.com
+nome do usuario 704art
+senha @cdc53080b
