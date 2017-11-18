@@ -8,10 +8,12 @@
             </div>
             
             <div class="divIcon col l12 s4">
-                <img class="iconSocial" src="imagens/insta.png"><br><br>
+                <a href="https://www.instagram.com/artcidada/?hl=pt-br" target="_blank">
+                    <img class="iconSocial" src="imagens/insta.png"><br><br></a>
             </div>
             
             <div class="divIcon col l12 s4">
-                <img class="iconSocial" src="imagens/tel.png" ><br><br>
+                <a href="tel:88988850617">
+                    <img class="iconSocial" src="imagens/tel.png" ><br></a><br>
             </div>            
     </div>
