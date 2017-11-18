@@ -1,6 +1,8 @@
-<div class="divGaleria col l12">
+
+<div class="divGaleria col l12 ">
     <span class="tituloDivFotos" id="galeriaFotos">
-        <h1>Galeria de fotos</h1>
+        <h1 class="hiddenMobile">Galeria de fotos</h1>
+        <a href="view/galeriaDeFotos.php"><img class="Mobile" src="view/teste.png" width="100%"></a>
     </span>
 
     <div class="row col l12 hiddenMobile">

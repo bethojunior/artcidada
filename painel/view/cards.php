@@ -19,7 +19,7 @@
         <span id="numb">500</span><span>/500</span><br>
         <textarea id="texto" required type="text" name="texto" placeholder="Insira o texto"></textarea><br><br>
         <div>
-            <input type="submit" class="btn right" value="Enviar">
+            <input type="submit" class="btn" value="Enviar">
         </div>
     </form>
 </div>

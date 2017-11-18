@@ -4,8 +4,9 @@
     require "../service/conexao.php";
     require "../lib/WideImage.php";
 
-    if(isset($_POST['titulo']) || isset($_POST['imagem'])){
+    if(isset($_POST['titulo']) || isset($_POST['imagem']) || isset($_POST['textoGaleria'])){
         $titulo = $_POST['titulo'];
+        $texto = $_POST['textoGaleria'];
         $imgExt = strtolower(pathinfo($_FILES['imagem']['name'],PATHINFO_EXTENSION));
         $imagem =$titulo.".".$imgExt;
     }
@@ -14,7 +15,7 @@
         echo "<script>updateGaleriaFailed()</script>";
         echo "<h1><center>Desculpe, houve algum erro</center></h1>";
     } else {
-        $sql = "INSERT INTO galeria (titulo , imagem) VALUES ('$titulo' , '$imagem')";
+        $sql = "INSERT INTO galeria (titulo , texto , imagem) VALUES ('$titulo' , '$texto' , '$imagem')";
         $exc = mysqli_query($conexao , $sql) or die (mysqli_error($sql));
         echo "<div class='loader'></div>";
         echo "<script>updateGaleriaSuccess()</script>";

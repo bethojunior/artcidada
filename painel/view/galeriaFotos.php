@@ -16,8 +16,10 @@
     </div>
     <span id="numbTituloGaleria">20</span><span>/20</span>
     <input id="tituloGaleria" required type="text" name="titulo" placeholder="Insira o titulo"><br>
+    <textarea id="textoGaleria" name="textoGaleria" placeholder="Digite aqui" type="text"></textarea>
+    <br><br
     <div>
-        <input type="submit" class="btn right" value="Enviar">
+        <input type="submit" class="btn" value="Enviar">
     </div>
 </form>
 </div>

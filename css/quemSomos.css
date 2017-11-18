@@ -1,0 +1,28 @@
+body {
+    background-color: #f7f6f2;
+}
+
+h1 {
+    color: #00AAE8;
+}
+
+h6{
+    text-align: justify;    
+}
+
+.imagemQuemSomos {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.fontUbuntu {
+    font-family: "Ubuntu";
+    margin-top: 60px;
+}
+
+.fontMontserrat {
+    font-family: "Montserrat";
+    margin-left: 57px;
+    margin-top: -22px;
+}
+

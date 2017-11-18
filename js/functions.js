@@ -27,4 +27,14 @@ function modal2(imagem) {
 
 }
 
+function trocarImagem(){
+
+    var idSlide = document.getElementById("idSlide").value;
+    var caminhoImagem = document.getElementById("idSlide").src;
+
+    document.getElementById("imagemCentral").src= caminhoImagem;
+
+}
+
+
 

@@ -9,7 +9,7 @@
                     echo "<div class='divBody1'>";
                     echo "<div class='col l8 carousel divCarousel'>";
                 }
-                echo "<a class='carousel-item imagemCarousel' ><img src='uploadCarousel/".$imagem['imagem']."'></a>";
+                    echo "<a class='carousel-item imagemCarousel' ><img src='uploadCarousel/".$imagem['imagem']."'></a>";
                 ?>
 
                 <?php

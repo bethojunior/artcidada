@@ -29,6 +29,10 @@ body {
     padding: 0;
 }
 
+.mobile {
+        display: none;
+}
+
 /************* NAV ***************/
 
 .liPainel {
@@ -36,6 +40,10 @@ body {
 }
 
 .menuMobile {
+    display: none;
+}
+
+.mobile{
     display: none;
 }
 
@@ -110,23 +118,33 @@ iframe{
 }
 
 /***************** CAROUUSEL ******************/
+.carouselGaleria{
+    text-align: center;
+    width: 100px;
+}
 
 .divCarousel {
     margin: 0;
     padding-top: 0;
 }
 
- .imagemCarousel {
-    width: 40%!important;
-    padding-bottom: 40%!important;
- }
+
 /************** GALERIA FOTOS ***************/
 
-/*  .divGaleria{
-     background-image: url(../imagens/logoOpaca.png);
-     background-attachment: fixed;
-     background-position: center;
- } */
+.imagemCentral {
+    width: 30%;
+    margin-left: 35%;
+}
+
+.imagemGaleria{
+    margin-left: 8px;
+    transition: all 2s;
+}
+
+.imagemGaleria:hover{
+    transform: scale(1.2);
+    transition: all 2s;
+}
 
 .galeria {
     margin: 1%;
@@ -200,6 +218,10 @@ textarea {
         display: block;
         background-color: #f3ca31;
     }
+    
+    .mobile {
+        display: block;
+    }
         
     .nomeMenuMobile{
         font-family: "Montserrat";
@@ -263,6 +285,12 @@ textarea {
     }
     .hiddenMobile {
         display: none;
+    }
+
+    .imagemGaleria{
+        width: 100%;
+        margin-left: 0px!important;
+        transition: all 2s;
     }
 
     /********* FOOTER *******/
