@@ -9,7 +9,7 @@
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Lato|Montserrat|Source+Sans+Pro|Ubuntu|Roboto|Raleway" rel="stylesheet">
     </head>
-    <body>
+    <body onselectstart='return false' ondragstart='return false' oncontextmenu='return false'>
         <!-- MENU WEB -->
 
     <div class="row menuWeb">          

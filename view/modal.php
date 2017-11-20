@@ -5,10 +5,10 @@
     <div class="modal-content">
         <h3 id="tituloModal"></h3><hr>
         <div class="">
-            <div class="col l12 s12 divModal">
+            <div class="col l6 s12 divModal">
                 <img id="imagemModal">
             </div>
-            <div class="col l12 s12">
+            <div class="col l6 s12">
                 <h5 id="textoModal"></h5>
             </div>
         </div>
