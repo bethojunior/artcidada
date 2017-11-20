@@ -293,6 +293,15 @@ textarea {
         transition: all 2s;
     }
 
+    .imagemCentral {
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    .listaImagem {
+        margin-left: 6px;
+    }
+
     /********* FOOTER *******/
     .mapa {
         /* width: 380px; 

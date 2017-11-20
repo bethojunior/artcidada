@@ -1,3 +1,4 @@
+var codigoImage = 1;
 function mailSuccess(){
     setTimeout("window.location='../index.php'", 900);
 }
@@ -27,14 +28,11 @@ function modal2(imagem) {
 
 }
 
-function trocarImagem(){
-
-    var idSlide = document.getElementById("idSlide").value;
-    var caminhoImagem = document.getElementById("idSlide").src;
-
-    document.getElementById("imagemCentral").src= caminhoImagem;
-
+function trocarImagem1(){
+    if(document.getElementById("idSlide"+codigoImage) != null) {
+        var idSlide = document.getElementById("idSlide" + codigoImage).value;
+        var caminhoImagem = document.getElementById("idSlide" + codigoImage).src;
+        codigoImage++;
+        document.getElementById("imagemCentral").src = caminhoImagem;
+    }
 }
-
-
-

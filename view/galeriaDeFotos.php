@@ -39,15 +39,11 @@
                 <div class="divider"></div>
             </li>
             <li>
-                <a href="#">Home</a>
+                <a href="../index.php">Home</a>
             </li>
-
             <li>
-                <a href="#">Nossas ações</a>
-            </li>	
-            <li>
-                <a href="#">Fotos</a>
-            </li>				   	
+                <a class="liMenuMobile" href="quemSomos.php">Quem Somos</a>
+            </li>
             <li>
                 <a href="#">Contato</a>
             </li>				    

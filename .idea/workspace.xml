@@ -2,22 +2,160 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8d2f1e-d094-4687-9afd-ea36ce619d99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php/mvc/view/listaDeImagens.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/123456789.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/TESTE 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/etste te .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/jhh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/local 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/local.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/localhost 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/lorem 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/lorem 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/lorem 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/lorem lipsum 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/lorem lisoum.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/lorem lispum .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/123456789.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/TESTE 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/etste te .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/jhh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/local 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/local.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/localhost 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/lorem 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/lorem 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/lorem 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/lorem lipsum 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/lorem lisoum.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/lorem lispum .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/teste .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/medium/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/123456789.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/TESTE 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/etste te .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/jhh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/local 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/local.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/localhost 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/lorem 1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/lorem 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/lorem 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/lorem lipsum 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/lorem lisoum.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/lorem lispum .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/teste .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/small/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/teste .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCards/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/123456789.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/ERT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/ertretertert.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/gteste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/123456789.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/ERT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/aaaaaa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/dfsf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/ertretertert.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/gteste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/teste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/medium/vvvv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/123456789.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/ERT.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/aaaaaa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/dfsf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/ertretertert.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/gteste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/teste.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/small/vvvv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadCarousel/vvvv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/1233e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/1233ed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/aaaaaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/art.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/asd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/dsf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/1233e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/1233ed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/aaaaaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/art.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/asd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/dsf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/sdfsfd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/sdfsfs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/sss.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/sss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/teste 1 .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/teste 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/teste 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/teste 3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/medium/teste2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/sdfsfd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/sdfsfs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/123.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/1233e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/1233ed.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/aaaaaa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/art.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/asd.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/dsf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/sdfsfd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/sdfsfs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/sss.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/sss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/teste 1 .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/teste 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/teste 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/teste 3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/small/teste2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/sss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/teste 1 .png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/teste 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/teste 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/teste 3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/teste.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploadsGaleriaFotos/teste2.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Materialize/css/materialize.css" afterPath="$PROJECT_DIR$/Materialize/css/materialize.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/quemSomos.css" afterPath="$PROJECT_DIR$/css/quemSomos.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/functions.js" afterPath="$PROJECT_DIR$/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/mvc/dao/uploadGaleria.php" afterPath="$PROJECT_DIR$/painel/mvc/dao/uploadGaleria.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/mvc/service/conexao.php" afterPath="$PROJECT_DIR$/painel/mvc/service/conexao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/mvc/service/receberDadosSlide.php" afterPath="$PROJECT_DIR$/painel/mvc/service/receberDadosSlide.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/view/cards.php" afterPath="$PROJECT_DIR$/painel/view/cards.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/view/galeriaFotos.php" afterPath="$PROJECT_DIR$/painel/view/galeriaFotos.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/mvc/service/conexao.php" afterPath="$PROJECT_DIR$/php/mvc/service/conexao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/carousel.php" afterPath="$PROJECT_DIR$/view/carousel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/footer.php" afterPath="$PROJECT_DIR$/view/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/galeria.php" afterPath="$PROJECT_DIR$/view/galeria.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/modal.php" afterPath="$PROJECT_DIR$/view/modal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/nav.php" afterPath="$PROJECT_DIR$/view/nav.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/mvc/view/imagemCentral.php" afterPath="$PROJECT_DIR$/php/mvc/view/imagemCentral.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/mvc/view/listaDeImagens.php" afterPath="$PROJECT_DIR$/php/mvc/view/listaDeImagens.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/galeriaDeFotos.php" afterPath="$PROJECT_DIR$/view/galeriaDeFotos.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,53 +176,25 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="galeriaDeFotos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/galeriaDeFotos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="290" column="19" lean-forward="false" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="imagemCentral.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php/mvc/view/imagemCentral.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="154">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listaDeImagens.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php/mvc/view/listaDeImagens.php">
+      <file leaf-file-name="receberImagensGaleria.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/mvc/dao/receberImagensGaleria.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/functions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="34" column="64" lean-forward="false" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
-              <folding />
+            <state relative-caret-position="84">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <marker date="1511043529145" expanded="true" signature="93:114" ph="SELECT * FRO... galeria" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,7 +239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/painel/view/galeriaTeste.php" />
         <option value="$PROJECT_DIR$/view/galeriaTeste.php" />
         <option value="$PROJECT_DIR$/view/modal.php" />
         <option value="$PROJECT_DIR$/view/cards.php" />
@@ -168,18 +277,19 @@
         <option value="$PROJECT_DIR$/painel/view/galeriaFotos.php" />
         <option value="$PROJECT_DIR$/painel/view/cards.php" />
         <option value="$PROJECT_DIR$/painel/mvc/dao/uploadGaleria.php" />
-        <option value="$PROJECT_DIR$/php/mvc/service/conexao.php" />
-        <option value="$PROJECT_DIR$/painel/mvc/service/conexao.php" />
         <option value="$PROJECT_DIR$/painel/mvc/service/receberDadosSlide.php" />
         <option value="$PROJECT_DIR$/Materialize/css/materialize.css" />
         <option value="$PROJECT_DIR$/php/mvc/dao/receberImagensGaleria.php" />
         <option value="$PROJECT_DIR$/php/mvc/view/imagens.php" />
         <option value="$PROJECT_DIR$/view/carousel.php" />
-        <option value="$PROJECT_DIR$/view/galeriaDeFotos.php" />
-        <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/php/mvc/view/listaDeImagens.php" />
         <option value="$PROJECT_DIR$/php/mvc/view/imagemCentral.php" />
         <option value="$PROJECT_DIR$/js/functions.js" />
+        <option value="$PROJECT_DIR$/css/quemSomos.css" />
+        <option value="$PROJECT_DIR$/php/mvc/view/listaDeImagens.php" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/view/galeriaDeFotos.php" />
+        <option value="$PROJECT_DIR$/php/mvc/service/conexao.php" />
+        <option value="$PROJECT_DIR$/painel/mvc/service/conexao.php" />
       </list>
     </option>
   </component>
@@ -223,23 +333,7 @@
             <path>
               <item name="art" type="b2602c69:ProjectViewProjectNode" />
               <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="art" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="painel" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="art" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="painel" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="art" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -312,18 +406,18 @@
       <workItem from="1511028217984" duration="1282000" />
       <workItem from="1511029599536" duration="4000" />
       <workItem from="1511029619986" duration="19000" />
-      <workItem from="1511030797170" duration="13277000" />
+      <workItem from="1511030797170" duration="14576000" />
+      <workItem from="1511180788893" duration="2610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137341000" />
+    <option name="totallyTimeSpent" value="141250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22995462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -351,7 +445,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22692889" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22995462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -372,14 +466,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/painel/mvc/controller/optionCards.php" />
-    <entry file="file://$PROJECT_DIR$/view/modal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/painel/mvc/controller/receberDadosCard.php" />
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/dadosOptionCards.php" />
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/sendCards.php" />
@@ -517,13 +603,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/artcidada.sql" />
-    <entry file="file://$PROJECT_DIR$/php/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -542,40 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadGaleria.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding>
-            <marker date="1511036389136" expanded="true" signature="749:836" ph="INSERT INTO galeria... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/view/galeriaFotos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/painel/mvc/service/conexao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/mvc/service/conexao.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -642,16 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/mvc/dao/receberImagensGaleria.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <marker date="1511043529145" expanded="true" signature="93:114" ph="SELECT * FRO... galeria" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/carousel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -670,14 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="290" column="19" lean-forward="false" selection-start-line="290" selection-start-column="19" selection-end-line="290" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/painel/mvc/dao/apagarGaleria.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -692,15 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="25" column="55" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/galeriaDeFotos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="65" column="27" lean-forward="false" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,27 +730,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/mvc/view/listaDeImagens.php">
+    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadGaleria.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
+        <state relative-caret-position="112">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <marker date="1511036389136" expanded="true" signature="749:836" ph="INSERT INTO galeria... " />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php/mvc/view/imagemCentral.php">
+    <entry file="file://$PROJECT_DIR$/painel/view/galeriaFotos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="252">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="34" column="64" lean-forward="false" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        <state relative-caret-position="280">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/quemSomos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/quemSomos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mvc/view/listaDeImagens.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/galeriaDeFotos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mvc/service/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="7" selection-end-column="64" />
+          <folding>
+            <element signature="e#7#33#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/service/conexao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#8#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="301" column="22" lean-forward="false" selection-start-line="301" selection-start-column="22" selection-end-line="301" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="2" lean-forward="true" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mvc/view/imagemCentral.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/mvc/dao/receberImagensGaleria.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1511043529145" expanded="true" signature="93:114" ph="SELECT * FRO... galeria" />
+          </folding>
         </state>
       </provider>
     </entry>
