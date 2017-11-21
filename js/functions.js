@@ -28,7 +28,7 @@ function modal2(imagem) {
 
 }
 
-function trocarImagem1(){
+function trocarImagemDireita(){
     if(document.getElementById("idSlide"+codigoImage) != null) {
         var idSlide = document.getElementById("idSlide" + codigoImage).value;
         var caminhoImagem = document.getElementById("idSlide" + codigoImage).src;
@@ -36,3 +36,13 @@ function trocarImagem1(){
         document.getElementById("imagemCentral").src = caminhoImagem;
     }
 }
+
+function trocarImagemEsquerda(){
+    if(document.getElementById("imagemCentral"+codigoImage) != null) {
+        var idSlide = document.getElementById("caminhoImagem" + codigoImage).value;
+        var caminhoImagem = document.getElementById("caminhoImagem" + codigoImage).src;
+        codigoImage++;
+        document.getElementById("idSlide").src = caminhoImagem;
+    }
+}
+

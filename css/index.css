@@ -1,8 +1,8 @@
 
- /* Largura da barra de rolagem */
+/* Largura da barra de rolagem */
 ::-webkit-scrollbar {
     width: 10px;
-    display: none; 
+    display: none;
 
 }
 
@@ -17,7 +17,7 @@
 ::-webkit-scrollbar-thumb:horizontal {
     background-color: #3490cc;
 }
- 
+
 /* Cor do indicador de rolagem - ao passar o mouse */
 ::-webkit-scrollbar-thumb:vertical:hover,
 ::-webkit-scrollbar-thumb:horizontal:hover {
@@ -30,13 +30,13 @@ body {
 }
 
 .mobile {
-        display: none;
+    display: none;
 }
 
 /************* NAV ***************/
 
 .liPainel {
-    color: cadetblue;    
+    color: cadetblue;
 }
 
 .menuMobile {
@@ -105,7 +105,7 @@ body {
 }
 
 .divSpan {
-    margin-top: 1%;    
+    margin-top: 1%;
 }
 
 .spanBody {
@@ -205,81 +205,81 @@ textarea {
 }
 
 @media only screen and (max-width: 600px){
-    
+
     .row {
         margin-bottom: 0!important;
     }
-    
+
     .menuWeb {
         display: none;
     }
-        
+
     .menuMobile {
         display: block;
         background-color: #f3ca31;
     }
-    
+
     .mobile {
         display: block;
     }
-        
+
     .nomeMenuMobile{
         font-family: "Montserrat";
         font-size: 20pt;
         text-align: center;
         margin-bottom: 10%!important;
     }
-    
+
     .logoMobile{
         width: 15%;
     }
-    
+
     .tituloCard {
         font-family: "Source Sans Pro";
         font-size: 10pt;
     }
-    
+
     .textoCard {
         font-family: "Montserrat";
         font-size: 15pt;
     }
-    
+
     .spanBody {
         font-family: "Montserrat";
         font-size: 15pt;
     }
-    
+
     .divModal{
         width: 80%;
         text-align: center;
         margin: 0;
         padding: 0;
     }
-    
+
     /********* CARROUSEL AND VIDEO ***********/
     .hiddenModal {
         display: none;
     }
-    
+
     .divCarousel {
-        margin-top: -22%!important;
+        margin-top: 1%!important;
         padding-top: 0;
         top: -100!important;
-    }    
-    
+    }
+
     .imagemCarousel {
         width: 80%!important;
         padding-top: 0;
     }
-    
+
     .iframe{
         margin: 0;
         padding: 0;
         width: 100%!important;
     }
-    
+
     /***********GALERIA FOTOS ************/
-    
+
     .galeria {
         margin: 0;
     }
@@ -299,7 +299,8 @@ textarea {
     }
 
     .listaImagem {
-        margin-left: 6px;
+        margin: 0;
+        width: 100%;
     }
 
     /********* FOOTER *******/
@@ -312,13 +313,13 @@ textarea {
         padding: auto;
         text-align: center;
     }
-    
+
     .divIcon {
         display: inline-block;
         margin: 0;
         padding: 0;
     }
- 
+
     .iconSocial {
         display: inline-block;
         width : 100%;
