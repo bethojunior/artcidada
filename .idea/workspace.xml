@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fc8d2f1e-d094-4687-9afd-ea36ce619d99" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/functions.js" afterPath="$PROJECT_DIR$/js/functions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/mvc/service/conexao.php" afterPath="$PROJECT_DIR$/painel/mvc/service/conexao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/mvc/service/conexao.php" afterPath="$PROJECT_DIR$/php/mvc/service/conexao.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/mvc/view/imagemCentral.php" afterPath="$PROJECT_DIR$/php/mvc/view/imagemCentral.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/galeriaDeFotos.php" afterPath="$PROJECT_DIR$/view/galeriaDeFotos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php" afterPath="$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php/mail.php" afterPath="$PROJECT_DIR$/php/mail.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,12 +26,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="4620">
               <caret line="330" column="1" lean-forward="false" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uploadVideo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <marker date="1511563234551" expanded="true" signature="213:256" ph="INSERT INTO video... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uploadSlides.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadSlides.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <marker date="1510698373355" expanded="true" signature="677:761" ph="INSERT INTO carousel... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,7 +175,6 @@
         <option value="$PROJECT_DIR$/php/mvc/view/listaDeImagens.php" />
         <option value="$PROJECT_DIR$/view/quemSomos.php" />
         <option value="$PROJECT_DIR$/view/modal.php" />
-        <option value="$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/php/mvc/service/conexao.php" />
         <option value="$PROJECT_DIR$/painel/mvc/service/conexao.php" />
@@ -163,6 +182,7 @@
         <option value="$PROJECT_DIR$/js/functions.js" />
         <option value="$PROJECT_DIR$/php/mvc/view/imagemCentral.php" />
         <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php" />
       </list>
     </option>
   </component>
@@ -194,6 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,11 +225,6 @@
             <path>
               <item name="art" type="b2602c69:ProjectViewProjectNode" />
               <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="art" type="b2602c69:ProjectViewProjectNode" />
-              <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="painel" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -222,19 +238,18 @@
               <item name="art" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="painel" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="mvc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="service" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dao" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simulador" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../duarteFilmes" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
@@ -302,16 +317,19 @@
       <workItem from="1511193920553" duration="2033000" />
       <workItem from="1511196032762" duration="8000" />
       <workItem from="1511196059139" duration="10000" />
+      <workItem from="1511563190149" duration="642000" />
+      <workItem from="1511794682705" duration="728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149784000" />
+    <option name="totallyTimeSpent" value="151154000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24130106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -416,13 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadSlides.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/painel/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -462,9 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <marker date="1511008197498" expanded="true" signature="99:135" ph="SELECT * FRO... cards" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -479,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,9 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <marker date="1511038453666" expanded="true" signature="75:97" ph="SELECT * FRO... carousel" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,9 +501,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <marker date="1511008210752" expanded="true" signature="74:95" ph="SELECT * FRO... galeria" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,13 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/painel/view/optionGaleria.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -690,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,9 +720,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="4620">
           <caret line="330" column="1" lean-forward="false" selection-start-line="330" selection-start-column="1" selection-end-line="330" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadVideo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <marker date="1511563234551" expanded="true" signature="213:256" ph="INSERT INTO video... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/painel/mvc/dao/uploadSlides.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <marker date="1510698373355" expanded="true" signature="677:761" ph="INSERT INTO carousel... " />
+          </folding>
         </state>
       </provider>
     </entry>

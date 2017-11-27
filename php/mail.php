@@ -1,7 +1,7 @@
 <link href="../css/loader.css" rel="stylesheet">
 <script src="../js/functions.js"></script>
 <?php
-    $destino = "regcosta2@gmail.com";
+    $destino = "regcosta2@hotmail.com";
     $nome = $_POST['nome'];
     $contato = $_POST['contato'];
     $mensagem = $_POST['mensagem'];

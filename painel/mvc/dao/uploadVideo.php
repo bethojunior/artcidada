@@ -6,7 +6,7 @@
 
     if($video != ""){
         $sql = "INSERT INTO video (video) VALUES ('$video')";
-        $exc = mysqli_query($conexao , $sql) or die (mysqli_error($sql));
+        $exc = mysqli_query($conexao , $sql);
         echo "<div class='loader'></div>";
         echo "<script>Success()</script>";
         //echo "ok";
