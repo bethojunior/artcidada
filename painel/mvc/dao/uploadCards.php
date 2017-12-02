@@ -16,7 +16,7 @@
         echo "<h1><center>Desculpe, houve algum erro</center></h1>";
     } else {
         $sql = "INSERT INTO cards (titulo , texto , imagem) VALUES ('$titulo' , '$texto' , '$imagem')";
-        $exc = mysqli_query($conexao , $sql) or die (mysqli_error($sql));
+        $exc = mysqli_query($conexao , $sql);
         echo "<div class='loader'></div>";
         echo "<script>updateCardsSuccess()</script>";
 

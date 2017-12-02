@@ -13,6 +13,7 @@ function ocultarSenha() {
     document.getElementById("senha").type = "password";
 }
 
+
 ////////////////////////////////////*MODAIS CARDS */
 function modal1() {
     $('#modal1').modal('open');

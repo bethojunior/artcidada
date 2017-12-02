@@ -25,7 +25,7 @@
 </div>
 
 <div class="row" id="video">
-    <form method="POST" action="mvc/dao/uploadVideo.php" class="col l12 s12">
+    <form method="POST" action="mvc/dao/uploadVideo.php" class="col l12 m12 s12">
         <input autofocus required name="video" placeholder="Insira o IFRAME do seu video"><br>
         <input class="btn right" type="submit" value="Enviar">
     </form>

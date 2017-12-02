@@ -17,7 +17,7 @@
             <ul>
                 <li class="liFirstChild"><img class="logoHeader" src="../imagens/logo.png"></li>
                 <li><a class="liMenuMobile" href="../index.php">Home</a></li>
-                <li><a class="liMenuMobile" href="galeriaDeFotos.php">Galeria de fotos</a></li>
+                <li><a class="liMenuMobile" href="#">Galeria de fotos</a></li>
                 <li><a class="liMenuMobile" href="#footer">Contato</a></li>
             </ul>
         </nav>
@@ -42,7 +42,7 @@
             </li>
 
             <li>
-                <a href="galeriaDeFotos.php">Galeria de fotos</a>
+                <a href="#">Galeria de fotos</a>
             </li>				   	
             <li>
                 <a href="#">Contato</a>

@@ -48,7 +48,7 @@
             include "mvc/service/receberDadosCards.php";
             $result = mysqli_fetch_array($dados);
             //echo "<input type='hidden' id='idDelete' name='idDelete' value='".$result['id']."' >";
-            echo "<a href='mvc/dao/apagarCard.php?id=".$result['id']."' class='btn large'>Apagar</a>";
+            echo "<a id='codigoCard' href='mvc/dao/apagarCard.php?id=".$result['id']."' class='btn large'>Apagar</a>";
         ?>
     </div>
 </div>

@@ -5,6 +5,7 @@ function sairAdm(){
 
 ///////////////MODAL
 function modalDeleteCard(id){
+    document.getElementById("codigoCard").href='mvc/dao/apagarCard.php?id='+ id;
     $('#modalDeleteCard').modal('open');
 }
 
