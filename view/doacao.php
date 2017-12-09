@@ -24,10 +24,10 @@
         </div>
 
         <div class="row divForm">
-            <form class="row" action="../php/mvc/dao/enviarDoacao.php" method="POST">
+            <form class="row" action="/art/painel/mvc/dao/enviarDoacoes.php" method="POST">
 
                 <div class="col l3 m6 s12">
-                    <input class="inputForm" placeholder="Nome completo *" name="nomeCompleto" id="nomeCompleto"><br>
+                    <input class="inputForm" placeholder="Nome completo *" name="nome" id="nomeCompleto"><br>
                     <input class="inputForm" placeholder="RG" name="rg" id="rg"><br>
                     <input class="inputForm" placeholder="CPF *" name="cpf" id="cpf"><br>
                     <input class="inputForm" placeholder="Telefone de contato *" id="telefone" name="telefone">
@@ -53,10 +53,22 @@
                         <input name="valor" type="radio" id="3" value="3" />
                         <label for="3">R$3,00</label>
                     </li>
-                    <input onclick="teste()" type="button" class="btn" value="Enviar" />
+                    
+                </ul>
+
+                <ul class="row col l12 m12 s12">
+                    <li>
+                        <input name="confirme" type="radio" id="4" value="s" />
+                        <label for="4">Sim</label>
+                    </li>
+                    
+                    <li>
+                        <input name="confirme" type="radio" id="5" value="n" />
+                        <label for="5">Não</label>
+                    </li>
                 </ul>
                 
-                
+                <input type="submit" class="btn" value="Enviar" />
             </form>
 
             <div class="divFormPreenchido row col l5 m6 s12">
