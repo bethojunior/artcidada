@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.7.0
+-- version 4.7.7
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: 18-Nov-2017 às 17:09
--- Versão do servidor: 10.1.25-MariaDB
--- PHP Version: 5.6.31
+-- Host: localhost
+-- Generation Time: 26-Jan-2018 às 02:10
+-- Versão do servidor: 10.1.30-MariaDB
+-- PHP Version: 7.2.1
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -21,6 +21,36 @@ SET time_zone = "+00:00";
 --
 -- Database: `artcidada`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Estrutura da tabela `cadastroUser`
+--
+
+CREATE TABLE `cadastroUser` (
+  `id` int(11) NOT NULL,
+  `nome` varchar(60) NOT NULL,
+  `cidade` varchar(50) NOT NULL,
+  `bairro` varchar(50) NOT NULL,
+  `endereco` varchar(50) NOT NULL,
+  `numero` int(11) NOT NULL,
+  `telefone` varchar(50) NOT NULL,
+  `rg` varchar(50) NOT NULL,
+  `cpf` varchar(50) NOT NULL,
+  `filho1` varchar(50) NOT NULL,
+  `filho2` varchar(50) NOT NULL,
+  `filho3` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Extraindo dados da tabela `cadastroUser`
+--
+
+INSERT INTO `cadastroUser` (`id`, `nome`, `cidade`, `bairro`, `endereco`, `numero`, `telefone`, `rg`, `cpf`, `filho1`, `filho2`, `filho3`) VALUES
+(10, 'HEGHBERTHO GOMES COSTA JUNIOR', 'Fortaleza', 'Antonio diogo', 'Avenida cesar Cals 2339, Apt302', 2339, '85991394539', '789654123-8', '073885998745', 'mariazinha', '123', '123'),
+(11, 'HEGHBERTHO GOMES COSTA JUNIOR', 'Fortaleza', 'Antonio diogo', 'Avenida cesar Cals 2339, Apt302', 2339, '85991394539', '789456123', '456789123', 'joao diniz', 'joao pereira', 'raimundo de pedro'),
+(12, 'teste', '123', '123', '321', 321, '321', '321', '321', '', '', '');
 
 -- --------------------------------------------------------
 
@@ -148,6 +178,12 @@ INSERT INTO `video` (`id`, `video`) VALUES
 --
 
 --
+-- Indexes for table `cadastroUser`
+--
+ALTER TABLE `cadastroUser`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indexes for table `cards`
 --
 ALTER TABLE `cards`
@@ -182,30 +218,41 @@ ALTER TABLE `video`
 --
 
 --
+-- AUTO_INCREMENT for table `cadastroUser`
+--
+ALTER TABLE `cadastroUser`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+
+--
 -- AUTO_INCREMENT for table `cards`
 --
 ALTER TABLE `cards`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=74;
+
 --
 -- AUTO_INCREMENT for table `carousel`
 --
 ALTER TABLE `carousel`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
+
 --
 -- AUTO_INCREMENT for table `galeria`
 --
 ALTER TABLE `galeria`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
+
 --
 -- AUTO_INCREMENT for table `usuarios`
 --
 ALTER TABLE `usuarios`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
 --
 -- AUTO_INCREMENT for table `video`
 --
 ALTER TABLE `video`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;COMMIT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
+COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
