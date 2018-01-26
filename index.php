@@ -16,7 +16,7 @@
         <?php
             include("view/nav.php");
             include("view/cards.php");
-            include ("view/carousel.php");
+            include("view/carousel.php");
             include("view/galeria.php");
             include("view/footer.php");
         ?>

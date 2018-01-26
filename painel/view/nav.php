@@ -2,7 +2,7 @@
     <div class="divHeader l12 s12">
         <div class="col l12 s12 row">
             <ul class="tabs">
-                <li class="tab col l2 s2"><a class="active option" href="#test0">Inicio</a></li>
+                <li class="tab col l2 s2"><a href="#test4" class="active option">Cadastro</a></li>
                 <li class="tab col l2 s2"><a class="option" href="#test1">Galeria</a></li>
                 <li class="tab col l2 s2"><a href="#test2" class="option" >Slide/Video</a></li>
                 <li class="tab col l2 s2"><a href="#test3" class="option" >Cards</a></li>
@@ -11,8 +11,10 @@
         </div>
     </div>
 
-    <div id="test0" class="col s12 l12 m12">
-        <img src="../imagens/logoExt.png" class="logo">
+    <div id="test4" class="col s12 l12">
+        <?php
+            include "cadastroUser.php";
+        ?>
     </div>
 
     <div id="test1" class="col s12 l12">
@@ -37,6 +39,7 @@
         
     </div>
 </div>
+
 <div id="sairPainel" class="modal">
     <h4><p>Tem certeza que deseja apagar?</p></h4>
 

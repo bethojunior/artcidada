@@ -9,7 +9,7 @@
             <li><a class="" href="#">Nossas ações</a></li>
 <!--            <li><a class="" href="view/galeriaDeFotos.php">Galeria de fotos</a></li>-->
             <li><a class="" href="#">Galeria de fotos</a></li>
-            <li><a href="view/doacao.php">Doações</a></li>
+            <!-- <li><a href="view/doacao.php">Doações</a></li> -->
             <li><a class="" href="#footer">Contato</a></li>
             <!-- <li><a class="bordaDireita" href="#">Painel de administração</a></li> -->
             <li>
@@ -45,9 +45,9 @@
         <li>
             <a href="#">Galeria de fotos</a>
         </li>
-        <li>
+        <!-- <li>
             <a href="view/doacao.php">Doações</a>
-        </li>				   	
+        </li>				   	 -->
         <li>
             <a href="#">Contato</a>
         </li>				    

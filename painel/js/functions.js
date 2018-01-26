@@ -1,3 +1,9 @@
+//voltar para página inicial 
+
+function comeBack(){
+    alert("Cadastrado com sucesso");
+}
+
 ///SAIR
 function sairAdm(){
     setTimeout("window.location='../index.php'" , 100);
